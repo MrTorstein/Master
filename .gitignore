@@ -34,3 +34,4 @@
 # Data files
 *.fit
 *.fits
+secrets.txt
